@@ -11,7 +11,7 @@ def pausar():
 
 
 # Menú principal
-def menu():
+def menu():                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
     ventas = []  # Lista para almacenar las ventas temporalmente
     while True:
         print("\n--- Menú Principal ---")
